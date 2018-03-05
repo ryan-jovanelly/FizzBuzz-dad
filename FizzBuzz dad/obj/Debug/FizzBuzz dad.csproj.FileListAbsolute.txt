@@ -1,0 +1,7 @@
+C:\Users\Admin1\source\repos\FizzBuzz dad\FizzBuzz dad\bin\Debug\FizzBuzz dad.exe.config
+C:\Users\Admin1\source\repos\FizzBuzz dad\FizzBuzz dad\bin\Debug\FizzBuzz dad.exe
+C:\Users\Admin1\source\repos\FizzBuzz dad\FizzBuzz dad\bin\Debug\FizzBuzz dad.pdb
+C:\Users\Admin1\source\repos\FizzBuzz dad\FizzBuzz dad\obj\Debug\FizzBuzz dad.csprojResolveAssemblyReference.cache
+C:\Users\Admin1\source\repos\FizzBuzz dad\FizzBuzz dad\obj\Debug\FizzBuzz dad.csproj.CoreCompileInputs.cache
+C:\Users\Admin1\source\repos\FizzBuzz dad\FizzBuzz dad\obj\Debug\FizzBuzz dad.exe
+C:\Users\Admin1\source\repos\FizzBuzz dad\FizzBuzz dad\obj\Debug\FizzBuzz dad.pdb
